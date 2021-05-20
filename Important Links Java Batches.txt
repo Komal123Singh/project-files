@@ -1,0 +1,31 @@
+Important Links:
+______________________________
+______________________________
+
+Common for Java and Python:
+
+Mandate Prerequisite:(Foundation Module)
+https://www.coursera.org/learn/computational-thinking-problem-solving/home/welcome
+
+_________________________________________________________________________________
+https://www.linkedin.com/learning/paths/become-a-software-developer
+JQuery Essentials:
+https://www.linkedin.com/learning/jquery-essential-training-2/welcome
+Angular:
+https://www.linkedin.com/learning/paths/become-an-angular-developer-2
+Database Links:
+https://cognitiveclass.ai/courses/learn-sql-relational-databases
+_________________________________________________________________________________
+________________________________________________________________________________
+Java Users:
+Java JDBC:
+https://www.linkedin.com/learning/learning-java-by-example/welcome
+https://www.linkedin.com/learning/java-database-integration-with-jdbc/welcome
+Java EE:
+https://www.linkedin.com/learning/paths/become-a-java-ee-7-developer
+Restful APIs:
+https://www.linkedin.com/learning/java-ee-restful-service-with-jax-rs-2-0/jax-rs-2-0-introduction
+Spring Developer:
+https://www.linkedin.com/learning/paths/become-a-spring-developer
+________________________________________________________________________________
+

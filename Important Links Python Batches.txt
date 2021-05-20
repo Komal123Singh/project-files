@@ -1,0 +1,32 @@
+Important Links:
+______________________________
+______________________________
+
+Common for Java and Python:
+
+Mandate Prerequisite:(Foundation Module)
+https://www.coursera.org/learn/computational-thinking-problem-solving/home/welcome
+
+_________________________________________________________________________________
+https://www.linkedin.com/learning/paths/become-a-software-developer
+JQuery Essentials:
+https://www.linkedin.com/learning/jquery-essential-training-2/welcome
+Angular:
+https://www.linkedin.com/learning/paths/become-an-angular-developer-2
+Database Links:
+https://cognitiveclass.ai/courses/learn-sql-relational-databases
+_________________________________________________________________________________
+
+Python users:
+PCAP:(Cisco Networking Academy)
+https://82252856.netacad.com/courses/952250
+https://www.linkedin.com/learning/paths/become-a-python-developer
+Python for data science:
+https://cognitiveclass.ai/courses/python-for-data-science
+Data visualization using Python:
+https://cognitiveclass.ai/courses/data-visualization-with-python
+Python for Data Science:
+https://cognitiveclass.ai/badges/python-data-science
+________________________________________________________________________________
+________________________________________________________________________________
+
